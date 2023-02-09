@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/ClassicAlgo/ClassicAlgo.iml" filepath="$PROJECT_DIR$/Arrays/ClassicAlgo/ClassicAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Codeforces/Codeforces.iml" filepath="$PROJECT_DIR$/Arrays/Codeforces/Codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFrameWorl/CollectionFrameWorl.iml" filepath="$PROJECT_DIR$/CollectionFrameWorl/CollectionFrameWorl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dsa.iml" filepath="$PROJECT_DIR$/Dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/Hashmap/Hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IPA/IPA.iml" filepath="$PROJECT_DIR$/IPA/IPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/OOPs/OOPs.iml" filepath="$PROJECT_DIR$/Arrays/OOPs/OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Search/Search.iml" filepath="$PROJECT_DIR$/Arrays/Search/Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgo/SortingAlgo.iml" filepath="$PROJECT_DIR$/SortingAlgo/SortingAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/String/String.iml" filepath="$PROJECT_DIR$/Arrays/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/TCS_NQT/TCS_NQT.iml" filepath="$PROJECT_DIR$/Arrays/TCS_NQT/TCS_NQT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Top100Codes/Top100Codes.iml" filepath="$PROJECT_DIR$/Arrays/Top100Codes/Top100Codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoPointer/TwoPointer.iml" filepath="$PROJECT_DIR$/TwoPointer/TwoPointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pracitice/pracitice.iml" filepath="$PROJECT_DIR$/pracitice/pracitice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/project.iml" filepath="$PROJECT_DIR$/project/project.iml" />
+    </modules>
+  </component>
+</project>
